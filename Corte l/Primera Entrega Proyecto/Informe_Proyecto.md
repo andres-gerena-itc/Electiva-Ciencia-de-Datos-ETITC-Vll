@@ -1,3 +1,9 @@
+## INTEGRANTES
+
+1. ANDRÉS FELIPE GERENA CONTRERAS
+2. FABIÁN ESTEBAN SUREZ ESTUPIÑAN
+3. LAURA CAMILA MOSUQERA GONZALEZ
+
 # Optimización de la Distribución de Recursos de Energía Solar en Colombia
 
 ## 1. Introducción
