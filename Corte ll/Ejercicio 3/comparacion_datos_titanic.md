@@ -1,3 +1,5 @@
+URL CÓDIGO PYTHON EN GOOGLE COLAB EJERCICIO 3: https://colab.research.google.com/drive/15Tip2uxn0xSmLlFnzKveioRqix2aXo7C?usp=sharing
+
 # COMPARACIÓN DE DATOS DATASET TITANIC
 
 En el análisis comparativo de Ciencia de Datos y Big Data, es fundamental entender cómo estas áreas afectan las técnicas de visualización, especialmente en relación con las visualizaciones empleadas en el ejercicio con el dataset de Titanic.
